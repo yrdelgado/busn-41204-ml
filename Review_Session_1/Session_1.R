@@ -1,0 +1,1 @@
+library (ISLR) # Load the ISLR library for the Credit Card example 
